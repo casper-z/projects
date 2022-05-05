@@ -1,4 +1,4 @@
-## Face Recognition Analyzer - 人脸视频分析器项目
+## [Face Recognition Analyzer](../README.md) - 人脸视频分析器项目
 [项目介绍](../README-CN.md) | 部署流程 | [接口文档](./README-api.md)
 
 #### 一、环境准备
