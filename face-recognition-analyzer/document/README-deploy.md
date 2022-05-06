@@ -142,3 +142,5 @@ print(response.json())
 * 登录地址: http://xxx.xxx.xxx.xxx:8080
 * 默认用户: admin
 * 默认密码: admin
+![image](./p1.jpg)
+![image](./p2.jpg)
