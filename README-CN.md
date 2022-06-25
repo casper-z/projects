@@ -10,4 +10,4 @@ atx-w11（台式机+Windows11） | atx-u20（台式机+Ubuntu20.04） | raspi-4b
 * [人脸视频分析器项目](./face-recognition-analyzer/README-CN.md)
 
 #### 源码获取
-如果对实现细节有兴趣，或者有任何建议和需求请加微信。（WeChart: casperX0422）
+如果对实现细节有兴趣，或者有任何建议和需求可加微信。（WeChart: casperX0422）
