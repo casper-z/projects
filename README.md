@@ -3,7 +3,7 @@ English | [简体中文](./README-CN.md)
 #### Supported Platforms
 [jetson-nx-u18 (Ubuntu18.04)](https://github.com/casper-z/projects/blob/jetson-nx-u18/README.md)
 
-#### Unsupported Platforms
+#### Desired Platforms
 atx-w11 (Windows11) | atx-u20 (Ubuntu20.04) | raspi-4b-u20 (Ubuntu20.04)
 
 #### Projects
